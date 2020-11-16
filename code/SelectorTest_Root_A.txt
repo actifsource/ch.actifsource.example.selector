@@ -1,0 +1,126 @@
+/****************
+* Base Operations
+****************\
+union:
+  A1
+  A2
+  A3
+  B1
+  B2
+  B3
+  B4
+
+intersect:
+  C1
+  C2
+  C3
+
+except:
+  C4
+  C5
+  C6
+  C7
+
+else:
+  B1
+  B2
+  B3
+
+then:
+  B1
+  B2
+  B3
+  B4
+
+if then else:
+  B1
+  B2
+  B3
+  B4
+
+/****************
+* Filter Operations
+****************\
+regexfilter: "^\w*\d"
+  C1
+  C2
+  C3
+  C4
+  C5
+  C6
+  C7
+
+includefilter:
+  B1
+  B3
+
+excludefilter:
+  C2
+
+getindex:
+  C3
+
+indexof:
+  0
+  1
+  2
+  3
+  4
+  5
+  6
+
+/****************
+* Boolean Operations
+****************\
+contains:
+  true
+
+containsany:
+  true
+
+equals integer:
+  true
+
+equals string:
+  C1 true
+
+notequals:
+  C2 true
+  C3 true
+  C4 true
+  C5 true
+  C6 true
+  C7 true
+
+greater:
+  true
+
+/****************
+* Value Operations
+****************\
+add int:
+  21
+
+add double:
+  21.1
+
+add long:
+  121
+
+/****************
+* Advanced
+****************\
+contains:
+  true
+
+sublist:
+  C3
+  C4
+  C5
+
+sublist function:
+  C3
+  C4
+  C5
+
+// Actifsource ID=[98e23004-27eb-11eb-a5fe-13a4cfefee49,d467b942-27ea-11eb-a5fe-13a4cfefee49,mT1MNU9Jd5vetEdUJH5ZBTXR5mw=]
