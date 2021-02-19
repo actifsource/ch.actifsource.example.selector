@@ -10,6 +10,10 @@ union:
   B3
   B4
 
+union const:
+  A1
+  B1
+
 intersect:
   C1
   C2
@@ -69,6 +73,11 @@ indexof:
   5
   6
 
+sort:
+  B3
+  B2
+  B1
+
 /****************
 * Boolean Operations
 ****************\
@@ -127,4 +136,4 @@ sublist advanced
   C3
   C4
 
-// Actifsource ID=[98e23004-27eb-11eb-a5fe-13a4cfefee49,d467b942-27ea-11eb-a5fe-13a4cfefee49,dhScymzSK0JGbwDrFZiVYn/h5hA=]
+// Actifsource ID=[98e23004-27eb-11eb-a5fe-13a4cfefee49,d467b942-27ea-11eb-a5fe-13a4cfefee49,0gJrpx+EywMgiwD2RyVHY11MG+M=]
