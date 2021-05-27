@@ -21,7 +21,7 @@ public class TestFunctions {
   public static interface IRootFunctions extends IDynamicResourceExtension {
 
     @IDynamicResourceExtension.MethodId("29c0ad62-2806-11eb-a44c-e5ce7752bfd4")
-    public List<ch.actifsource.core.javamodel.INamedResource> getSublist();
+    public List<ch.actifsource.example.selector.generic.javamodel.IC> getSublist();
 
   }
   
@@ -45,4 +45,4 @@ public class TestFunctions {
 
 }
 
-/* Actifsource ID=[5349246f-db37-11de-82b8-17be2e034a3b,22796da3-2806-11eb-a44c-e5ce7752bfd4,PG4FhgfKsi+UsFJ4nu2IFhdvD0U=] */
+/* Actifsource ID=[5349246f-db37-11de-82b8-17be2e034a3b,22796da3-2806-11eb-a44c-e5ce7752bfd4,WCWQ2ZTj3P85TZs9UKMimfgAudg=] */
