@@ -104,6 +104,12 @@ notequals:
 greater:
   true
 
+and:
+  true
+
+or:
+  true
+
 /****************
 * Value Operations
 ****************\
@@ -136,4 +142,4 @@ sublist advanced
   C3
   C4
 
-// Actifsource ID=[98e23004-27eb-11eb-a5fe-13a4cfefee49,d467b942-27ea-11eb-a5fe-13a4cfefee49,O1ktnO6CxvpyxNwMn9GsJ7hrwMI=]
+// Actifsource ID=[98e23004-27eb-11eb-a5fe-13a4cfefee49,d467b942-27ea-11eb-a5fe-13a4cfefee49,Q8PBdLopPANmTVKspT9ghgz//4A=]
