@@ -274,5 +274,17 @@
       </resource>
     </object>
   </predicate>
+  <predicate guid="34077065-8883-11ee-8ced-2d7833d4fb90">
+    <object statement-guid="60d24452-8883-11ee-8ced-2d7833d4fb90" type="literal">12</object>
+  </predicate>
+  <predicate guid="4826326d-8883-11ee-8ced-2d7833d4fb90">
+    <object statement-guid="638d93c3-8883-11ee-8ced-2d7833d4fb90" type="literal">13</object>
+  </predicate>
+  <predicate guid="57a7ebfb-8883-11ee-8ced-2d7833d4fb90">
+    <object statement-guid="658f7e44-8883-11ee-8ced-2d7833d4fb90" type="literal">5.5</object>
+  </predicate>
+  <predicate guid="824bf2c9-8884-11ee-8ced-2d7833d4fb90">
+    <object statement-guid="8a40d87a-8884-11ee-8ced-2d7833d4fb90" type="literal">true</object>
+  </predicate>
 </resource>
 

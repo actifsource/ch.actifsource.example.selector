@@ -114,12 +114,6 @@ notequals:
 greater:
   true
 
-and:
-  true
-
-or:
-  true
-
 /****************
 * Literal Operations
 ****************\
@@ -131,6 +125,48 @@ add double:
 
 add long:
   121
+
+and:
+  true
+
+and boolean:
+  true
+
+and bitwise:
+  4
+
+or:
+  true
+
+or boolean:
+  true
+  
+or bitwise:
+  7
+
+xor bitwise:
+  3
+
+sub:
+  5
+
+mul:
+  5
+
+div:
+  6
+
+mod:
+  2
+
+exp:
+  9
+
+shr:
+  3
+
+shl:
+  12
 
 /****************
 * Advanced using
@@ -159,4 +195,4 @@ predecessorlist advanced:
 
 
 
-// Actifsource ID=[98e23004-27eb-11eb-a5fe-13a4cfefee49,d467b942-27ea-11eb-a5fe-13a4cfefee49,lgBtNDT2q/7Qzc4r+IS479+rbiU=]
+// Actifsource ID=[98e23004-27eb-11eb-a5fe-13a4cfefee49,d467b942-27ea-11eb-a5fe-13a4cfefee49,4NxxsOtm07vlVLPKCA1quNJFeJA=]

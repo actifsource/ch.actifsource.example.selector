@@ -1,35 +1,31 @@
 /****************
 * List Functions
 ****************\
-union:
-  A1
-  A2
-  A3
-  B1
-  B2
-  B3
-  B4
-
-
 
 /****************
-* Filter Operations
+* Literal Functions
 ****************\
+negative
+  -12
 
+increment
+  13
 
-/****************
-* Boolean Operations
-****************\
+decrement
+  11
 
+toBoolean
+  true
 
-/****************
-* Value Operations
-****************\
+toLong
+  12
 
+toDouble
+  12.0
 
 /****************
 * Advanced
 ****************\
 
 
-// Actifsource ID=[4251393d-887e-11ee-8ced-2d7833d4fb90,d467b942-27ea-11eb-a5fe-13a4cfefee49,T/GQt9fuVoYCKayUlnzJGayHc1I=]
+// Actifsource ID=[4251393d-887e-11ee-8ced-2d7833d4fb90,d467b942-27ea-11eb-a5fe-13a4cfefee49,u7o3KUUagwpU+bqlxDACKl6KBrI=]
