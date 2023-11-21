@@ -1,0 +1,35 @@
+/****************
+* List Functions
+****************\
+union:
+  A1
+  A2
+  A3
+  B1
+  B2
+  B3
+  B4
+
+
+
+/****************
+* Filter Operations
+****************\
+
+
+/****************
+* Boolean Operations
+****************\
+
+
+/****************
+* Value Operations
+****************\
+
+
+/****************
+* Advanced
+****************\
+
+
+// Actifsource ID=[4251393d-887e-11ee-8ced-2d7833d4fb90,d467b942-27ea-11eb-a5fe-13a4cfefee49,T/GQt9fuVoYCKayUlnzJGayHc1I=]

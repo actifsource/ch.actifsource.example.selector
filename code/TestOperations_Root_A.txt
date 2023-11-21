@@ -1,5 +1,5 @@
 /****************
-* Base Operations
+* List Operations
 ****************\
 union:
   A1
@@ -61,6 +61,21 @@ includefilter:
 excludefilter:
   C2
 
+sort:
+  B3
+  B2
+  B1
+
+predecessorlist:
+  C1
+  C2
+  C3
+
+successorlist:
+  C5
+  C6
+  C7
+
 getindex:
   C3
 
@@ -73,13 +88,8 @@ indexof:
   5
   6
 
-sort:
-  B3
-  B2
-  B1
-
 /****************
-* Boolean Operations
+* Condition Operations
 ****************\
 contains:
   true
@@ -111,7 +121,7 @@ or:
   true
 
 /****************
-* Value Operations
+* Literal Operations
 ****************\
 add int:
   21
@@ -123,7 +133,7 @@ add long:
   121
 
 /****************
-* Advanced
+* Advanced using
 ****************\
 contains:
   true
@@ -142,4 +152,11 @@ sublist advanced
   C3
   C4
 
-// Actifsource ID=[98e23004-27eb-11eb-a5fe-13a4cfefee49,d467b942-27ea-11eb-a5fe-13a4cfefee49,Q8PBdLopPANmTVKspT9ghgz//4A=]
+predecessorlist advanced:
+  C1
+  C2
+  C3
+
+
+
+// Actifsource ID=[98e23004-27eb-11eb-a5fe-13a4cfefee49,d467b942-27ea-11eb-a5fe-13a4cfefee49,lgBtNDT2q/7Qzc4r+IS479+rbiU=]
