@@ -18,6 +18,10 @@ public class GenericPackage {
   public static final Resource C_longLiteral = new Resource("3d2b03a3-27f2-11eb-a5fe-13a4cfefee49");
   public static final Resource C_doubleLiteral = new Resource("46d6e7c9-27f2-11eb-a5fe-13a4cfefee49");
   public static final Resource TestFunctions_Root = new Resource("23884597-2806-11eb-a44c-e5ce7752bfd4");
+  public static final Resource Root_integer = new Resource("34077065-8883-11ee-8ced-2d7833d4fb90");
+  public static final Resource Root_long = new Resource("4826326d-8883-11ee-8ced-2d7833d4fb90");
+  public static final Resource Root_double = new Resource("57a7ebfb-8883-11ee-8ced-2d7833d4fb90");
+  public static final Resource Root_boolean = new Resource("824bf2c9-8884-11ee-8ced-2d7833d4fb90");
   
   /* Begin Protected Region [[user]] */
   
@@ -38,4 +42,4 @@ public class GenericPackage {
   }
   
 }
-/* Actifsource ID=[c1a07b92-fc09-11e0-b756-0dc1d96a76cb,ch.actifsource.example.selector.generic,H+ZFRJJTMUG3k//3Vnu9knyS3Ac=] */
+/* Actifsource ID=[c1a07b92-fc09-11e0-b756-0dc1d96a76cb,ch.actifsource.example.selector.generic,HF1rD+cvJPGIsX+E00rfQYJhZj8=] */

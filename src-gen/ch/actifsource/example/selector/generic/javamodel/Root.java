@@ -31,6 +31,42 @@ public class Root extends DynamicResource implements IRoot {
   // attributes
   
   @Override
+  public java.lang.Boolean selectBoolean() {
+    return _getSingleAttribute(java.lang.Boolean.class, ch.actifsource.example.selector.generic.GenericPackage.Root_boolean);
+  }
+    
+  public void setBoolean(java.lang.Boolean boolean_) {
+     _setSingleAttribute(ch.actifsource.example.selector.generic.GenericPackage.Root_boolean, boolean_);
+  }
+
+  @Override
+  public java.lang.Double selectDouble() {
+    return _getSingleAttribute(java.lang.Double.class, ch.actifsource.example.selector.generic.GenericPackage.Root_double);
+  }
+    
+  public void setDouble(java.lang.Double double_) {
+     _setSingleAttribute(ch.actifsource.example.selector.generic.GenericPackage.Root_double, double_);
+  }
+
+  @Override
+  public java.lang.Integer selectInteger() {
+    return _getSingleAttribute(java.lang.Integer.class, ch.actifsource.example.selector.generic.GenericPackage.Root_integer);
+  }
+    
+  public void setInteger(java.lang.Integer integer) {
+     _setSingleAttribute(ch.actifsource.example.selector.generic.GenericPackage.Root_integer, integer);
+  }
+
+  @Override
+  public java.lang.Long selectLong() {
+    return _getSingleAttribute(java.lang.Long.class, ch.actifsource.example.selector.generic.GenericPackage.Root_long);
+  }
+    
+  public void setLong(java.lang.Long long_) {
+     _setSingleAttribute(ch.actifsource.example.selector.generic.GenericPackage.Root_long, long_);
+  }
+
+  @Override
   public java.lang.String selectName() {
     return _getSingleAttribute(java.lang.String.class, ch.actifsource.core.CorePackage.NamedResource_name);
   }
@@ -85,6 +121,10 @@ public class Root extends DynamicResource implements IRoot {
   @Override
   public void accept(IPropertyValueVisitor visitor) {
     // attributes
+    _acceptSingleAttribute(java.lang.Boolean.class, ch.actifsource.example.selector.generic.GenericPackage.Root_boolean, visitor);
+    _acceptSingleAttribute(java.lang.Double.class, ch.actifsource.example.selector.generic.GenericPackage.Root_double, visitor);
+    _acceptSingleAttribute(java.lang.Integer.class, ch.actifsource.example.selector.generic.GenericPackage.Root_integer, visitor);
+    _acceptSingleAttribute(java.lang.Long.class, ch.actifsource.example.selector.generic.GenericPackage.Root_long, visitor);
     _acceptSingleAttribute(java.lang.String.class, ch.actifsource.core.CorePackage.NamedResource_name, visitor);
     // relations
     _acceptList(ch.actifsource.example.selector.generic.javamodel.IA.class, ch.actifsource.example.selector.generic.GenericPackage.Root_root_aE_a, visitor);
@@ -108,4 +148,4 @@ public class Root extends DynamicResource implements IRoot {
   }
   
 }
-/* Actifsource ID=[4d723cb5-db37-11de-82b8-17be2e034a3b,aca13aab-27ea-11eb-a5fe-13a4cfefee49,aDk0xvCL30AadBNg4fieL60Yh2A=] */
+/* Actifsource ID=[4d723cb5-db37-11de-82b8-17be2e034a3b,aca13aab-27ea-11eb-a5fe-13a4cfefee49,n/M7r/uzqnZ90/t4IiWHOZtVVWo=] */
