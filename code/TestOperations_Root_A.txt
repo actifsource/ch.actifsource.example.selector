@@ -42,6 +42,13 @@ if then else:
   B3
   B4
 
+chain:
+  C1
+  C5
+  C7
+  C2
+  C3
+
 /****************
 * Filter Operations
 ****************\
@@ -195,4 +202,4 @@ predecessorlist advanced:
 
 
 
-// Actifsource ID=[98e23004-27eb-11eb-a5fe-13a4cfefee49,d467b942-27ea-11eb-a5fe-13a4cfefee49,4NxxsOtm07vlVLPKCA1quNJFeJA=]
+// Actifsource ID=[98e23004-27eb-11eb-a5fe-13a4cfefee49,d467b942-27ea-11eb-a5fe-13a4cfefee49,HQF4fQ3E2M1+DXoXR2bDRrJMsGo=]

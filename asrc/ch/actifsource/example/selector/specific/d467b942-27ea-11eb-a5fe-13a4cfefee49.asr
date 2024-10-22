@@ -79,6 +79,10 @@
         <predicate guid="b61f30ae-27ea-11eb-a5fe-13a4cfefee49">
           <object statement-guid="1a4af5bd-27eb-11eb-a5fe-13a4cfefee49" type="resource" guid="069fb63a-27eb-11eb-a5fe-13a4cfefee49" />
         </predicate>
+        <predicate guid="823927f6-904d-11ef-92d5-6d6d4539bfc7">
+          <object statement-guid="880ed702-904d-11ef-92d5-6d6d4539bfc7" type="resource" guid="897f7d3d-27f0-11eb-a5fe-13a4cfefee49" />
+          <object statement-guid="93c33553-904d-11ef-92d5-6d6d4539bfc7" type="resource" guid="8a70e227-27f0-11eb-a5fe-13a4cfefee49" />
+        </predicate>
       </resource>
     </object>
     <object statement-guid="00855d43-27eb-11eb-a5fe-13a4cfefee49">
