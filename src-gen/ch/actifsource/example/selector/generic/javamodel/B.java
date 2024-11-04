@@ -42,12 +42,22 @@ public class B extends DynamicResource implements IB {
   // relations
   
   @Override
-  public java.util.List<? extends ch.actifsource.example.selector.generic.javamodel.IC> selectC() {
-    return _getList(ch.actifsource.example.selector.generic.javamodel.IC.class, ch.actifsource.example.selector.generic.GenericPackage.B_c);
+  public java.util.List<? extends ch.actifsource.example.selector.generic.javamodel.IC> selectC1() {
+    return _getList(ch.actifsource.example.selector.generic.javamodel.IC.class, ch.actifsource.example.selector.generic.GenericPackage.B_c1);
   }
 
-  public B setC(java.util.List<? extends ch.actifsource.example.selector.generic.javamodel.IC> c) {
-    _setList(ch.actifsource.example.selector.generic.GenericPackage.B_c, c);
+  public B setC1(java.util.List<? extends ch.actifsource.example.selector.generic.javamodel.IC> c1) {
+    _setList(ch.actifsource.example.selector.generic.GenericPackage.B_c1, c1);
+    return this;
+  }
+    
+  @Override
+  public java.util.List<? extends ch.actifsource.example.selector.generic.javamodel.IC> selectC2() {
+    return _getList(ch.actifsource.example.selector.generic.javamodel.IC.class, ch.actifsource.example.selector.generic.GenericPackage.B_c2);
+  }
+
+  public B setC2(java.util.List<? extends ch.actifsource.example.selector.generic.javamodel.IC> c2) {
+    _setList(ch.actifsource.example.selector.generic.GenericPackage.B_c2, c2);
     return this;
   }
     
@@ -67,15 +77,20 @@ public class B extends DynamicResource implements IB {
     // attributes
     _acceptSingleAttribute(java.lang.String.class, ch.actifsource.core.CorePackage.NamedResource_name, visitor);
     // relations
-    _acceptList(ch.actifsource.example.selector.generic.javamodel.IC.class, ch.actifsource.example.selector.generic.GenericPackage.B_c, visitor);
+    _acceptList(ch.actifsource.example.selector.generic.javamodel.IC.class, ch.actifsource.example.selector.generic.GenericPackage.B_c1, visitor);
+    _acceptList(ch.actifsource.example.selector.generic.javamodel.IC.class, ch.actifsource.example.selector.generic.GenericPackage.B_c2, visitor);
     _acceptSingle(ch.actifsource.core.javamodel.IClass.class, ch.actifsource.core.CorePackage.Resource_typeOf, visitor);
   }
 
   // toMeRelations
   
-  public static java.util.List<ch.actifsource.example.selector.generic.javamodel.IB> selectToMeC(ch.actifsource.example.selector.generic.javamodel.IC object) {
-    return _getToMeList(object.getRepository(), ch.actifsource.example.selector.generic.javamodel.IB.class, ch.actifsource.example.selector.generic.GenericPackage.B_c, object.getResource());
+  public static java.util.List<ch.actifsource.example.selector.generic.javamodel.IB> selectToMeC1(ch.actifsource.example.selector.generic.javamodel.IC object) {
+    return _getToMeList(object.getRepository(), ch.actifsource.example.selector.generic.javamodel.IB.class, ch.actifsource.example.selector.generic.GenericPackage.B_c1, object.getResource());
+  }
+  
+  public static java.util.List<ch.actifsource.example.selector.generic.javamodel.IB> selectToMeC2(ch.actifsource.example.selector.generic.javamodel.IC object) {
+    return _getToMeList(object.getRepository(), ch.actifsource.example.selector.generic.javamodel.IB.class, ch.actifsource.example.selector.generic.GenericPackage.B_c2, object.getResource());
   }
   
 }
-/* Actifsource ID=[4d723cb5-db37-11de-82b8-17be2e034a3b,a5a00466-27ea-11eb-a5fe-13a4cfefee49,YAIX0wdzgP9LJS2iHcPRgKf+yf4=] */
+/* Actifsource ID=[4d723cb5-db37-11de-82b8-17be2e034a3b,a5a00466-27ea-11eb-a5fe-13a4cfefee49,wFYgknmDe2SyRPfrfQHJvulmIBI=] */

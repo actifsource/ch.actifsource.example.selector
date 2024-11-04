@@ -8,8 +8,10 @@ public interface IB extends ch.actifsource.core.javamodel.INamedResource {
   
   // relations
   
-  public java.util.List<? extends ch.actifsource.example.selector.generic.javamodel.IC> selectC();
+  public java.util.List<? extends ch.actifsource.example.selector.generic.javamodel.IC> selectC1();
+  
+  public java.util.List<? extends ch.actifsource.example.selector.generic.javamodel.IC> selectC2();
   
 }
 
-/* Actifsource ID=[3ca9f967-db37-11de-82b8-17be2e034a3b,a5a00466-27ea-11eb-a5fe-13a4cfefee49,ift7BaS1+CF/Bk8iYNKmAzzqRzM=] */
+/* Actifsource ID=[3ca9f967-db37-11de-82b8-17be2e034a3b,a5a00466-27ea-11eb-a5fe-13a4cfefee49,WuWPFABoxBKIALNJQaxaKq1V9F4=] */
